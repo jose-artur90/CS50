@@ -21,6 +21,8 @@ int main(void)
     }
     while(start<9);
 
+    getchar();
+
     do
     {
         printf("End population: \n");
